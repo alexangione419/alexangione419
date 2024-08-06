@@ -1,12 +1,12 @@
-## Welcome!
+# Welcome!
 I'm Alex, a fourth year computer science student at Northeastern University, currently working as a Software Engineering Intern. I'm always interested in new projects and am currently looking for post graduate opportunities. Find more info about me on [LinkedIn](https://www.linkedin.com/in/alexanderfangione/) or reach out at angione.a@northeastern.edu
 
 
-# Current projects
+## Current projects
 - A new proximity based dating app, stay tuned for release on the IOS App Store
 - Adding to my neovim config file
 
-# Technologies I know
+## Technologies I know
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
