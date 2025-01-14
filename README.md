@@ -3,7 +3,7 @@ I'm Alex, a fourth year computer science student at Northeastern University, cur
 
 
 ## Current projects
-- A new proximity based dating app, stay tuned for release on the IOS App Store
+- A new proximity based social media app, stay tuned for release on the IOS App Store
 - Customizing my neovim config
 
 ## Technologies I know
