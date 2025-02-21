@@ -1,5 +1,5 @@
 # Welcome!
-I'm Alex, a fourth year computer science student at Northeastern University, currently working as a Software Engineering Intern. I'm always interested in new projects and am currently looking for post graduate opportunities. Find more info about me on [LinkedIn](https://www.linkedin.com/in/alexanderfangione/) or reach out at angione.a@northeastern.edu
+I'm Alex, a fourth year computer science student at Northeastern University. I'm always interested in new projects and am currently looking for post graduate opportunities. Find more info about me on [LinkedIn](https://www.linkedin.com/in/alexanderfangione/) or reach out at angione.a@northeastern.edu
 
 
 ## Current projects
