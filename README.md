@@ -3,7 +3,9 @@ I'm Alex, a fourth year computer science student at Northeastern University. I'm
 
 
 ## Current projects
-- A new proximity based social media app, stay tuned for release on the IOS App Store
+- A new proximity based social media app, stay tuned for release on the IOS App Store.
+- Developing GitMarks, a grading software for Northeastern's Khoury College that exposes students to industry standard development workflows.
+- Developing a model that, given a binary string, can identify whether or not the given string represents a body of text in a natural language.  
 - Customizing my neovim config
 
 ## Technologies I know
