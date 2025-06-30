@@ -1,11 +1,8 @@
 # Welcome!
 I'm Alex, a fourth year computer science student at Northeastern University. I'm always interested in new projects and am currently looking for post graduate opportunities. Find more info about me on [LinkedIn](https://www.linkedin.com/in/alexanderfangione/) or reach out at angione.a@northeastern.edu
 
-
 ## Current projects
-- A new proximity based social media app, stay tuned for release on the IOS App Store.
-- Developing GitMarks, a grading software for Northeastern's Khoury College that exposes students to industry standard development workflows.
-- Developing a model that, given a binary string, can identify whether or not the given string represents a body of text in a natural language.  
+- Proxima, a location centric social media app, now available on the iOS App Store!
 - Customizing my neovim config
 
 ## Technologies I know
